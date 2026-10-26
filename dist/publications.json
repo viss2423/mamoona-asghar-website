@@ -1,0 +1,10 @@
+{
+  "source": "University and European Commission research records",
+  "mode": "selected",
+  "updated": "2026-10-26",
+  "articles": [
+    {"title":"Lightweight, Privacy-compliant Motion Detection System for Constrained Devices","authors":"Alexis Tom Shaju, Amna Shifa, Mamoona Naveed Asghar","publication":"Irish Signals and Systems Conference (ISSC)","year":"2025","link":"https://doi.org/10.1109/ISSC67739.2025.11291268"},
+    {"title":"GDPR-compliant Video Search and Retrieval System for Surveillance Data","authors":"Amna Shifa, Rónán Kennedy, Mamoona Naveed Asghar","publication":"International Conference on Availability, Reliability and Security (ARES)","year":"2024","link":"https://doi.org/10.1145/3664476.3670472"},
+    {"title":"Survey on Video Security: Examining Threats, Challenges, and Future Trends","authors":"Ali Asghar, Amna Shifa, Mamoona Naveed Asghar","publication":"Computers, Materials & Continua","year":"2024","link":"https://doi.org/10.32604/CMC.2024.054654"}
+  ]
+}

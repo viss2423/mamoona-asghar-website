@@ -1,0 +1,57 @@
+name: Publish academic website
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['dist/**', '.github/workflows/pages.yml']
+  schedule:
+    - cron: '23 7 * * 1'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: academic-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check update configuration
+        id: config
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: |
+          if [ -n "$SERPAPI_API_KEY" ]; then echo "enabled=true" >> "$GITHUB_OUTPUT"; else echo "enabled=false" >> "$GITHUB_OUTPUT"; fi
+      - name: Refresh Scholar snapshot
+        if: steps.config.outputs.enabled == 'true'
+        env:
+          SERPAPI_API_KEY: ${{ secrets.SERPAPI_API_KEY }}
+        run: python sync_scholar.py
+      - name: Preserve the last successful publication snapshot
+        if: steps.config.outputs.enabled == 'true'
+        run: |
+          git add dist/publications.json
+          if ! git diff --cached --quiet; then
+            git -c user.name='Publications updater' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh Google Scholar publications'
+            git push
+          fi
+      - name: Skip unconfigured scheduled deployments
+        if: github.event_name == 'schedule' && steps.config.outputs.enabled != 'true'
+        run: echo 'No Scholar API secret configured. No scheduled publication will run.'
+      - uses: actions/configure-pages@v5
+        if: github.event_name != 'schedule' || steps.config.outputs.enabled == 'true'
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'schedule' || steps.config.outputs.enabled == 'true'
+        with:
+          path: dist
+      - uses: actions/deploy-pages@v4
+        id: deployment
+        if: github.event_name != 'schedule' || steps.config.outputs.enabled == 'true'
