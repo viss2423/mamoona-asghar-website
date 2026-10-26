@@ -1,10 +1,888 @@
 {
-  "source": "University and European Commission research records",
-  "mode": "selected",
+  "source": "Google Scholar",
+  "mode": "scholar",
   "updated": "2026-10-26",
+  "author_id": "lw6LYlgAAAAJ",
   "articles": [
-    {"title":"Lightweight, Privacy-compliant Motion Detection System for Constrained Devices","authors":"Alexis Tom Shaju, Amna Shifa, Mamoona Naveed Asghar","publication":"Irish Signals and Systems Conference (ISSC)","year":"2025","link":"https://doi.org/10.1109/ISSC67739.2025.11291268"},
-    {"title":"GDPR-compliant Video Search and Retrieval System for Surveillance Data","authors":"Amna Shifa, Rónán Kennedy, Mamoona Naveed Asghar","publication":"International Conference on Availability, Reliability and Security (ARES)","year":"2024","link":"https://doi.org/10.1145/3664476.3670472"},
-    {"title":"Survey on Video Security: Examining Threats, Challenges, and Future Trends","authors":"Ali Asghar, Amna Shifa, Mamoona Naveed Asghar","publication":"Computers, Materials & Continua","year":"2024","link":"https://doi.org/10.32604/CMC.2024.054654"}
+    {
+      "title": "A survey of modern deep learning based object detection models",
+      "authors": "SSA Zaidi, MS Ansari, A Aslam, N Kanwal, M Asghar, B Lee",
+      "publication": "Digital Signal Processing 126, 103514, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:TQgYirikUcIC",
+      "citations": 1491
+    },
+    {
+      "title": "Data driven approach for eye disease classification with machine learning",
+      "authors": "S Malik, N Kanwal, MN Asghar, MAA Sadiq, I Karamat, M Fleury",
+      "publication": "Applied Sciences 9 (14), 2789, 2019",
+      "year": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:LkGwnXOMwfcC",
+      "citations": 133
+    },
+    {
+      "title": "Visual surveillance within the EU general data protection regulation: A technology perspective",
+      "authors": "MN Asghar, N Kanwal, B Lee, M Fleury, M Herbst, Y Qiao",
+      "publication": "IEEE Access 7, 111709-111726, 2019",
+      "year": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Se3iqnhoufwC",
+      "citations": 97
+    },
+    {
+      "title": "Dynamic Malware Classification and API Categorisation of Windows Portable Executable Files Using Machine Learning",
+      "authors": "S Durre Zehra, MN Asghar",
+      "publication": "Applied Sciences 14 (3), 1015, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RYcK_YlVTxYC",
+      "citations": 74
+    },
+    {
+      "title": "Lightweight deep learning model for detection of copy-move image forgery with post-processed attacks",
+      "authors": "MN Abbas, MS Ansari, MN Asghar, N Kanwal, T O'Neill, B Lee",
+      "publication": "2021 IEEE 19th world symposium on applied machine intelligence and …, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:hFOr9nPyWt4C",
+      "citations": 68
+    },
+    {
+      "title": "SecureCam: Selective Detection and Encryption enabled Application for Dynamic Camera Surveillance Videos",
+      "authors": "I Aribilola, MN Asghar, N Kanwal, M Fleury, B Lee",
+      "publication": "IEEE Transactions on Consumer Electronics, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:TFP_iSt0sucC",
+      "citations": 63
+    },
+    {
+      "title": "An efficient security system for CABAC bin-strings of H. 264/SVC",
+      "authors": "MN Asghar, M Ghanbari",
+      "publication": "IEEE transactions on circuits and systems for video technology 23 (3), 425-437, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:0EnyYjriUFMC",
+      "citations": 60
+    },
+    {
+      "title": "MuLViS: Multi-level encryption based security system for surveillance videos",
+      "authors": "A Shifa, MN Asghar, M Fleury, N Kanwal, MS Ansari, B Lee, M Herbst, ...",
+      "publication": "Ieee Access 8, 177131-177155, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qjMakFHDy7sC",
+      "citations": 54
+    },
+    {
+      "title": "Real-time Event-driven Road Traffic Monitoring System using CCTV Video Analytics",
+      "authors": "M Tahir, Y Qiao, N Kanwal, B Lee, MN Asghar",
+      "publication": "IEEE Access 11, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:GnPB-g6toBAC",
+      "citations": 46
+    },
+    {
+      "title": "Firenet-v2: Improved lightweight fire detection model for real-time iot applications",
+      "authors": "A Shees, MS Ansari, A Varshney, MN Asghar, N Kanwal",
+      "publication": "Procedia Computer Science 218, 2233-2242, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:u-x6o8ySG0sC",
+      "citations": 43
+    },
+    {
+      "title": "Skin detection and lightweight encryption for privacy protection in real-time surveillance applications",
+      "authors": "A Shifa, MB Imtiaz, MN Asghar, M Fleury",
+      "publication": "Image and Vision Computing 94, 103859, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:-f6ydRqryjwC",
+      "citations": 41
+    },
+    {
+      "title": "Joint crypto-stego scheme for enhanced image protection with nearest-centroid clustering",
+      "authors": "A Shifa, MS Afgan, MN Asghar, M Fleury, I Memon, S Abdullah, ...",
+      "publication": "IEEE Access 6, 16189-16206, 2018",
+      "year": "2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:mB3voiENLucC",
+      "citations": 41
+    },
+    {
+      "title": "Lightweight cipher for H. 264 videos in the Internet of multimedia things with encryption space ratio diagnostics",
+      "authors": "A Shifa, MN Asghar, S Noor, N Gohar, M Fleury",
+      "publication": "Sensors 19 (5), 1228, 2019",
+      "year": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:j3f4tGmQtD8C",
+      "citations": 38
+    },
+    {
+      "title": "Limitation of silicon based computation and future prospects",
+      "authors": "S Hassan, M Asghar",
+      "publication": "2010 Second International Conference on Communication Software and Networks …, 2010",
+      "year": "2010",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:_FxGoFyzp5QC",
+      "citations": 37
+    },
+    {
+      "title": "Multimedia security perspectives in IoT",
+      "authors": "A Shifa, MN Asghar, M Fleury",
+      "publication": "2016 sixth international conference on innovative computing technology …, 2016",
+      "year": "2016",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:kNdYIx-mwKoC",
+      "citations": 33
+    },
+    {
+      "title": "Confidentiality of a selectively encrypted H. 264 coded video bit-stream",
+      "authors": "MN Asghar, M Ghanbari, M Fleury, MJ Reed",
+      "publication": "Journal of Visual Communication and Image Representation 25 (2), 487-498, 2014",
+      "year": "2014",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:5nxA0vEk-isC",
+      "citations": 32
+    },
+    {
+      "title": "An energy-aware, highly available, and fault-tolerant method for reliable IoT systems",
+      "authors": "M Bukhsh, S Abdullah, A Rahman, MN Asghar, H Arshad, A Alabdulatif",
+      "publication": "IEEE Access 9, 145363-145381, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:3fE2CSJIrl8C",
+      "citations": 31
+    },
+    {
+      "title": "Sufficient encryption based on entropy coding syntax elements of H. 264/SVC",
+      "authors": "MN Asghar, M Ghanbari, M Fleury, MJ Reed",
+      "publication": "Multimedia Tools and Applications 74 (23), 10215-10241, 2015",
+      "year": "2015",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:dhFuZR0502QC",
+      "citations": 29
+    },
+    {
+      "title": "A review of deep packet inspection for network security: From traditional techniques to machine learning integration",
+      "authors": "T Kumar, S Leavy, P Eustace, E Curry, MN Asghar",
+      "publication": "International Conference on Availability, Reliability and Security, 185-202, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:KxtntwgDAa4C",
+      "citations": 25
+    },
+    {
+      "title": "Fuzzy-logic threat classification for multi-level selective encryption over real-time video streams: A. Shifa et al.",
+      "authors": "A Shifa, M Naveed Asghar, A Ahmed, M Fleury",
+      "publication": "Journal of Ambient Intelligence and Humanized Computing 11 (11), 5369-5397, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:M3ejUd6NZC8C",
+      "citations": 23
+    },
+    {
+      "title": "An Energy-Efficient Message Scheduling Algorithm with Joint Routing Mechanism at Network Layer in Internet of Things Environment: S. Abdullah et al.",
+      "authors": "S Abdullah, MN Asghar, M Ashraf, N Abbas",
+      "publication": "Wireless Personal Communications 111 (3), 1821-1835, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ZeXyd9-uunAC",
+      "citations": 23
+    },
+    {
+      "title": "Learning-based improved seeded region growing algorithm for brain tumor identification: Improved seeded region growing algorithm for brain tumor identification",
+      "authors": "IS Bajwa, MN Asghar, MA Naeem",
+      "publication": "Proceedings of the Pakistan Academy of Sciences: A. Physical and …, 2017",
+      "year": "2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Zph67rFs4hoC",
+      "citations": 23
+    },
+    {
+      "title": "Transparent encryption with scalable video communication: Lower-latency, CABAC-based schemes",
+      "authors": "MN Asghar, R Kousar, H Majid, M Fleury",
+      "publication": "Journal of Visual Communication and Image Representation 45, 122-136, 2017",
+      "year": "2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:UeHWp8X0CEIC",
+      "citations": 22
+    },
+    {
+      "title": "Preserving chain-of-evidence in surveillance videos for authentication and trust-enabled sharing",
+      "authors": "N Kanwal, MN Asghar, MS Ansari, M Fleury, B Lee, M Herbst, Y Qiao",
+      "publication": "IEEE Access 8, 153413-153424, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:R3hNpaxXUhUC",
+      "citations": 20
+    },
+    {
+      "title": "SLEPX: An efficient lightweight cipher for visual protection of scalable HEVC extension",
+      "authors": "RA Shah, MN Asghar, S Abdullah, N Kanwal, M Fleury",
+      "publication": "IEEE Access 8, 187784-187807, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RHpTSmoSYBkC",
+      "citations": 18
+    },
+    {
+      "title": "Privacy preserved video summarization of road traffic events for IoT smart cities",
+      "authors": "M Tahir, Y Qiao, N Kanwal, B Lee, MN Asghar",
+      "publication": "Cryptography 7 (1), 7, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:M3NEmzRMIkIC",
+      "citations": 17
+    },
+    {
+      "title": "Effectiveness of crypto-transcoding for H. 264/AVC and HEVC video bit-streams",
+      "authors": "RA Shah, MN Asghar, S Abdullah, M Fleury, N Gohar",
+      "publication": "Multimedia Tools and Applications 78 (15), 21455-21484, 2019",
+      "year": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:WF5omc3nYNoC",
+      "citations": 17
+    },
+    {
+      "title": "Log4jPot: effective log4shell vulnerability detection system",
+      "authors": "S Sopariwala, E Fallon, MN Asghar",
+      "publication": "2022 33rd Irish Signals and Systems Conference (ISSC), 1-5, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:2osOgNQ5qMEC",
+      "citations": 16
+    },
+    {
+      "title": "Pixel tampering detection in encrypted surveillance videos on resource-constrained devices",
+      "authors": "I Aribilola, B Lee, MN Asghar",
+      "publication": "Internet of Things 25, 101058, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ns9cj8rnVeAC",
+      "citations": 15
+    },
+    {
+      "title": "Sufficient encryption with codewords and bin-strings of H. 264/SVC",
+      "authors": "MN Asghar, M Ghanbari, MJ Reed",
+      "publication": "2012 IEEE 11th International Conference on Trust, Security and Privacy in …, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:_kc_bZDykSQC",
+      "citations": 15
+    },
+    {
+      "title": "Survey on Video Security: Examining Threats, Challenges, and Future Trends",
+      "authors": "A Asghar, A Shifa, MN Asghar",
+      "publication": "Computers, Materials & Continua 80 (3), 3591-3635, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:pqnbT2bcN3wC",
+      "citations": 14
+    },
+    {
+      "title": "Efficient selective encryption with H. 264/SVC CABAC bin-strings",
+      "authors": "M Asghar, M Ghanbari, M Fleury, M Reed",
+      "publication": "2012 19th IEEE International Conference on Image Processing, 2645-2648, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:HDshCWvjkbEC",
+      "citations": 12
+    },
+    {
+      "title": "MIKEY for keys management of H. 264 scalable video coded layers",
+      "authors": "MN Asghar, M Ghanbari",
+      "publication": "Journal of King Saud University Computer and Information Sciences 24 (2 …, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:u5HHmVD_uO8C",
+      "citations": 12
+    },
+    {
+      "title": "Malware Detection and AI Integration: A Systematic Review of Current Trends and Future Directions",
+      "authors": "I Raza, M. M., Umair, M., Choudhry, I. A., Qasim, M., Naseem, M. T., Asghar ...",
+      "publication": "Computer Modeling in Engineering & Sciences, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:l7t_Zn2s7bgC",
+      "citations": 11
+    },
+    {
+      "title": "Pixdoor: A pixel-space backdoor attack on deep learning models",
+      "authors": "I Arshad, MN Asghar, Y Qiao, B Lee, Y Ye",
+      "publication": "2021 29th European Signal Processing Conference (EUSIPCO), 681-685, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ULOm3_A8WrAC",
+      "citations": 11
+    },
+    {
+      "title": "Network-Coding-Enabled and QoS-Aware Message Delivery for Wireless Sensor Networks",
+      "authors": "S Abdullah, MN Asghar, M Fleury, Z Mushtaq",
+      "publication": "Wireless Personal Communications, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:YFjsv_pBGBYC",
+      "citations": 10
+    },
+    {
+      "title": "Towards estimation of emotions from eye pupillometry with low-cost devices",
+      "authors": "S Rafique, N Kanwal, I Karamat, MN Asghar, M Fleury",
+      "publication": "IEEE Access 9, 5354-5370, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:mVmsd5A6BfQC",
+      "citations": 10
+    },
+    {
+      "title": "Unlocking Trust: Advancing Activity Recognition in Video Processing",
+      "authors": "MJ Yousuf, B Lee, MN Asghar, MS Ansari, N Kanwal",
+      "publication": "IEEE Access, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ZHo1McVdvXMC",
+      "citations": 9
+    },
+    {
+      "title": "Möbius transformation and permutation based S-box to enhance IOT multimedia security",
+      "authors": "I Aribilola, B Lee, MN Asghar",
+      "publication": "IEEE Access 12, 140792-140808, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:SeFeTyx0c_EC",
+      "citations": 9
+    },
+    {
+      "title": "Email Phishing Attack Detection using Recurrent and Feed-forward Neural Networks",
+      "authors": "R Lobo, MN Abbas, M Naveed Asghar",
+      "publication": "CRCI-2023, IEEE Cyber Research Conference, Letterkenny, Co. Galway, Ireland, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:NaGl4SEjCO4C",
+      "citations": 9
+    },
+    {
+      "title": "Deep learning based effective identification of eu-gdpr compliant privacy safeguards in surveillance videos",
+      "authors": "MN Asghar, MS Ansari, N Kanwal, B Lee, M Herbst, Y Qiao",
+      "publication": "2021 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf …, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:UebtZRa9Y70C",
+      "citations": 9
+    },
+    {
+      "title": "Efficient lightweight encryption algorithm for smart video applications",
+      "authors": "A Shifa, MN Asghar, N Batool, M Fluery",
+      "publication": "arXiv preprint arXiv:1901.08344, 2019",
+      "year": "2019",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Wp0gIr-vW9MC",
+      "citations": 9
+    },
+    {
+      "title": "Interoperable conditional access with video selective encryption for portable devices",
+      "authors": "MN Asghar, M Fleury, S Makki",
+      "publication": "Multimedia Tools and Applications 76 (11), 13139-13152, 2017",
+      "year": "2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Tyk-4Ss8FVUC",
+      "citations": 9
+    },
+    {
+      "title": "Deep learning based human detection in privacy-preserved surveillance videos",
+      "authors": "MJ Yousuf, N Kanwal, MS Ansari, MN Asghar, BHY Lee",
+      "publication": "35th International BCS Human-Computer Interaction Conference, 1-7, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:e5wmG9Sq2KIC",
+      "citations": 8
+    },
+    {
+      "title": "Real-time, content-based communication load reduction in the internet of multimedia things",
+      "authors": "I Tanseer, N Kanwal, MN Asghar, A Iqbal, F Tanseer, M Fleury",
+      "publication": "Applied Sciences 10 (3), 1152, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:eQOLeE2rZwMC",
+      "citations": 8
+    },
+    {
+      "title": "From prediction to sustainability: AI for smart energy management in wastewater treatment plants",
+      "authors": "SH Alsamhi, A Hawbani, MAA Al-Qaness, N O’brolchain, L Zhao, ...",
+      "publication": "Scientific Reports 15 (1), 44598, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:UxriW0iASnsC",
+      "citations": 7
+    },
+    {
+      "title": "Deep learning based emotion classification with temporal pupillometry sequences",
+      "authors": "S Rafique, N Kanwal, MS Ansari, M Asghar, Z Akhtar",
+      "publication": "2021 International Conference on Electrical, Computer and Energy …, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:IjCSPb-OGe4C",
+      "citations": 7
+    },
+    {
+      "title": "Cryptographic keys management for H. 264 scalable coded video security",
+      "authors": "M Asghar, M Ghanbari",
+      "publication": "2011 8th International ISC Conference on Information Security and Cryptology …, 2011",
+      "year": "2011",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ufrVoPGSRksC",
+      "citations": 7
+    },
+    {
+      "title": "Relative applicability of diverse automatic speech recognition platforms for transcription of psychiatric treatment sessions",
+      "authors": "R Zeeshan, J Bogue, MN Asghar",
+      "publication": "IEEE Access 13, 117343-117354, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:CHSYGLWDkRkC",
+      "citations": 6
+    },
+    {
+      "title": "End-to-end emotion recognition using peripheral physiological signals",
+      "authors": "M Pidgeon, N Kanwal, N Murray, M Asghar",
+      "publication": "35th International BCS Human-Computer Interaction Conference, 1-10, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:isC4tDSrTZIC",
+      "citations": 6
+    },
+    {
+      "title": "Deep learning model for thunderstorm prediction with class imbalance data",
+      "authors": "D Healy, Z Mohammed, N Kanwal, MN Asghar, MS Ansari",
+      "publication": "Proceedings of International Conference on Information Technology and …, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:hqOjcs7Dif8C",
+      "citations": 6
+    },
+    {
+      "title": "Joint crypto-blockchain scheme for trust-enabled CCTV videos sharing",
+      "authors": "M Tahir, MN Asghar, N Kanwal, B Lee, Y Qiao",
+      "publication": "2021 IEEE International Conference on Blockchain (Blockchain), 1-6, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:W7OEmFMy1HYC",
+      "citations": 6
+    },
+    {
+      "title": "Analysis of channel error upon selectively encrypted H. 264 video",
+      "authors": "MN Asghar, M Ghanbari, M Fleury, MJ Reed",
+      "publication": "2012 4th Computer Science and Electronic Engineering Conference (CEEC), 139-144, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:r0BpntZqJG4C",
+      "citations": 6
+    },
+    {
+      "title": "Key management protocols for secure wireless multimedia services: a review",
+      "authors": "M Naveed Asghar, M Fleury, M Ghanbari",
+      "publication": "Recent Patents on Telecommunication (Discontinued) 1 (1), 41-53, 2012",
+      "year": "2012",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:MXK_kJrjxJIC",
+      "citations": 6
+    },
+    {
+      "title": "SVS-a secure scheme for video streaming using SRTP AES and DH.",
+      "authors": "MN Asghar, S Sadaf, K Eidi, A Naseem, S Naweed",
+      "publication": "Euro Journals, 2010",
+      "year": "2010",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qUcmZB5y_30C",
+      "citations": 6
+    },
+    {
+      "title": "SuPOR: A lightweight stream cipher for confidentiality and attack-resilient visual data security in IoT",
+      "authors": "I Aribilola, SH Alsamhi, JG Breslin, MN Asghar",
+      "publication": "International Journal of Critical Infrastructure Protection, 100786, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:P5F9QuxV20EC",
+      "citations": 5
+    },
+    {
+      "title": "AI-Driven Chatbot for Intrusion Detection in Edge Networks: Enhancing Cybersecurity with Ethical User Consent",
+      "authors": "M Asif, A Manan, MN Asghar, M Umair",
+      "publication": "IEEE Horizons of Information Technology and Engineering (HITE), Lahore …, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:3s1wT3WcHBgC",
+      "citations": 5
+    },
+    {
+      "title": "YOLOv5 for Road Events Based Video Summarization",
+      "authors": "N Saxena, MN Asghar",
+      "publication": "Science and Information Conference, 996-1010, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:BqipwSGYUEgC",
+      "citations": 5
+    },
+    {
+      "title": "VQProtect: Lightweight visual quality protection for error-prone selectively encrypted video streaming",
+      "authors": "SM Gillani, MN Asghar, A Shifa, S Abdullah, N Kanwal, M Fleury",
+      "publication": "Entropy 24 (6), 755, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:aqlVkmm33-oC",
+      "citations": 5
+    },
+    {
+      "title": "Towards a privacy preserving surveillance approach for smart cities",
+      "authors": "F Tariq, N Kanwal, MS Ansari, A Afzaal, MN Asghar, MJ Anjum",
+      "publication": "IET Conference Proceedings CP777 2020 (6), 450-455, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:QIV2ME_5wuYC",
+      "citations": 5
+    },
+    {
+      "title": "FaceExpr: Personalized facial expression generation via attention-focused U-Net feature fusion in diffusion models",
+      "authors": "MS Afgan, B Liu, MN Asghar, W Khalid, K Zou, D Sheng",
+      "publication": "Information Fusion, 103431, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:1sJd4Hv_s6UC",
+      "citations": 4
+    },
+    {
+      "title": "AFOM: Advanced flow of motion detection algorithm for dynamic camera videos",
+      "authors": "I Aribilola, MN Asghar, N Kanwal, MS Ansari, B Lee",
+      "publication": "2022 33rd Irish Signals and Systems Conference (ISSC), 1-6, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:4DMP91E08xMC",
+      "citations": 4
+    },
+    {
+      "title": "Extension of grounding mechanism for abstract words: computational methods insights",
+      "authors": "N Rasheed, SHM Amin, U Sultana, AR Bhatti, MN Asghar",
+      "publication": "Artificial Intelligence Review 50 (3), 467-494, 2018",
+      "year": "2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:7PzlFSSx8tAC",
+      "citations": 4
+    },
+    {
+      "title": "Pursuit of Digital Innovation in Psychiatric Data Handling Practices in Ireland: Comprehensive Case Study",
+      "authors": "Z Rana, B John, G Amna, A Mamoona Naveed",
+      "publication": "JMIR Human Factors 12, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:NhqRSupF_l8C",
+      "citations": 3
+    },
+    {
+      "title": "Turbulence-driven autonomous stock trading using deep reinforcement learning",
+      "authors": "R Jaggi, MN Abbas, J Manzoor, R Dwivedi, MN Asghar",
+      "publication": "2024 IEEE 3rd International Conference on Computing and Machine Intelligence …, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:M05iB0D1s5AC",
+      "citations": 3
+    },
+    {
+      "title": "Improved privacy-ensuring data-fusion and service recommendation for users in smart cities",
+      "authors": "M Sarim, MS Ansari, N Kanwal, M Asghar",
+      "publication": "2021 IEEE International Smart Cities Conference (ISC2), 1-7, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:KlAtU1dfN6UC",
+      "citations": 3
+    },
+    {
+      "title": "Chain-of-evidence in secured surveillance videos using steganography and hashing",
+      "authors": "N Kanwal, MN Asghar, MS Ansari, B Lee, M Fleury, M Herbst, Y Qiao",
+      "publication": "2020 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf …, 2020",
+      "year": "2020",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:IWHjjKOFINEC",
+      "citations": 3
+    },
+    {
+      "title": "Ontology-based intelligent security framework for smart video surveillance",
+      "authors": "A Shifa, MN Asghar, M Fleury, MS Afgan",
+      "publication": "Proceedings of the Future Technologies Conference, 118-126, 2018",
+      "year": "2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:_Qo2XoVZTnwC",
+      "citations": 3
+    },
+    {
+      "title": "Evolutionary Feature Engineering Meets AutoML: A Feature-Efficient Framework for Malware Detection",
+      "authors": "MM Raza, IA Choudhry, M Umair, M Qasim, N Mazhar, MN Asghar",
+      "publication": "IEEE Access, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:vRqMK49ujn8C",
+      "citations": 2
+    },
+    {
+      "title": "Toward ethical cybersecurity: AI-chatbot integration with SIEM technology for user consent management",
+      "authors": "S Daly, TK Menghwar, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Tiz5es2fbqcC",
+      "citations": 2
+    },
+    {
+      "title": "Poster: Semantic Modelling of DDoS Attacks: An Ontology-Driven Cybersecurity Framework",
+      "authors": "DZ Syeda, MN Asghar",
+      "publication": "46th IEEE Symposium on Security and Privacy, SAN FRANCISCO, CA, US, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:abG-DnoFyZgC",
+      "citations": 2
+    },
+    {
+      "title": "Automated detection of early tropical cyclones formation in satellite images",
+      "authors": "IS Bajwa",
+      "publication": "Pakistan Journal of Science 69 (4), 2017",
+      "year": "2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:9ZlFYXVOiuMC",
+      "citations": 2
+    },
+    {
+      "title": "Effective transparent encryption scheme with scalable video communication",
+      "authors": "R Kousar, H Majid, MN Asghar, M Fleury",
+      "publication": "2016 Sixth International Conference on Innovative Computing Technology …, 2016",
+      "year": "2016",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:L8Ckcad2t8MC",
+      "citations": 2
+    },
+    {
+      "title": "Federated Learning with Motion-Only Encryption for Visual Data Transformation in Human Activity Recognition",
+      "authors": "MJ Yousuf, M Asghar, MS Ansari, B Lee, N Kanwal",
+      "publication": "TechRxiv 2026 (0116), 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:OU6Ihb5iCvQC",
+      "citations": 1
+    },
+    {
+      "title": "Ai-empowered climateclean: Wastewater-to-energy solutions for a resilient and sustainable future",
+      "authors": "SH Alsamhi, A Hawbani, NJ Rowan, MN Asghar, N O'Brolchain, E Clifford",
+      "publication": "2025 4th International Conference on Computing and Information Technology …, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:b0M2c_1WBrUC",
+      "citations": 1
+    },
+    {
+      "title": "GDPR-compliant Video Search and Retrieval System for Surveillance Data",
+      "authors": "A Shifa, R Kennedy, MN Asghar",
+      "publication": "Proceedings of the 19th International Conference on Availability …, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:g5m5HwL7SMYC",
+      "citations": 1
+    },
+    {
+      "title": "VidSearch: Privacy-by-Design Video Search and Retrieval System for Large-Scale CCTV Data",
+      "authors": "M Tahir, Y Qiao, N Kanwal, B Lee, MN Asghar",
+      "publication": "22nd International Conference on Machine Learning and Applications …, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RGFaLdJalmkC",
+      "citations": 1
+    },
+    {
+      "title": "Enhancing Malware Classification: A Comparison of Filter and Embedded Feature Selection with a Novel Dataset",
+      "authors": "DZ Syeda, MN Asghar",
+      "publication": "2023 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:HoB7MX3m0LUC",
+      "citations": 1
+    },
+    {
+      "title": "Analyzing the impact of COVID-19 on flight cancellation using machine learning and deep learning algorithms for a highly unbalanced dataset",
+      "authors": "Z Mohammed, M Asghar, N Kanwal",
+      "publication": "2021 International Conference on Electrical, Computer and Energy …, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:4TOpqqG69KYC",
+      "citations": 1
+    },
+    {
+      "title": "Intelligent video encoder selection system for smart devices",
+      "authors": "MA Ejaz",
+      "publication": "Pakistan Journal of Science 70 (2), 2018",
+      "year": "2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:YOwf2qJgpHMC",
+      "citations": 1
+    },
+    {
+      "title": "A cloud-based transcoding with partial content protection scheme",
+      "authors": "RA Shah, MN Asghar, L Fazal, M Fleury",
+      "publication": "2016 Sixth International Conference on Innovative Computing Technology …, 2016",
+      "year": "2016",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:YsMSGLbcyi4C",
+      "citations": 1
+    },
+    {
+      "title": "Efficient Security for Scalable Coded Video Distribution",
+      "authors": "M Asghar",
+      "publication": "University of Essex, 2013",
+      "year": "2013",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:zYLM7Y9cAGgC",
+      "citations": 1
+    },
+    {
+      "title": "Adversarial collapse to robust recovery: assessing the impact of robustness and adversarial retraining on Android malware detection",
+      "authors": "M Qasim, MA Aziz, M Umair, N Mazhar, MM Raza, MN Asghar",
+      "publication": "Journal of Cyber Security Technology 10 (1), 2703065, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:4fKUyHm3Qg0C",
+      "citations": null
+    },
+    {
+      "title": "DiffAgeX: Identity Consistent Multi-Attribute Facial Synthesis via Adaptive Residual Fusion",
+      "authors": "MS Afgan, B Liu, W Khalid, K Zou, T Wei, MN Asghar",
+      "publication": "IEEE Transactions on Circuits and Systems for Video Technology, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:LPZeul_q3PIC",
+      "citations": null
+    },
+    {
+      "title": "Beyond Visual Cues: Impact Analysis of Multi-Duration PCAPs for Deepfake Video Detection Using Network Traffic",
+      "authors": "A Asim, M Umair, N Mazhar, MN Asghar",
+      "publication": "Applied Sciences 16 (16), 8223, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:5Ul4iDaHHb8C",
+      "citations": null
+    },
+    {
+      "title": "Irish-Accented English Audio-Visual Deepfake Datasets with Deep Packet Inspection-Inspired Media Integrity Validation",
+      "authors": "T Kumar, M Umair, S Leavy, P Eustace, E Curry, MN Asghar",
+      "publication": "Scientific Data, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:geHnlv5EZngC",
+      "citations": null
+    },
+    {
+      "title": "Beyond ASR: Achieving Privacy-Aligned Low Diarization Error Rates in Psychiatric Transcripts Using Large Language Models",
+      "authors": "R Zeeshan, J Bogue, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-7, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:K3LRdlH-MEoC",
+      "citations": null
+    },
+    {
+      "title": "Adaptive Cyber-defence: A Reinforcement Learning-based Response to the Evolving Cyber-attacks in Network Security",
+      "authors": "MN Abbas, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:738O_yMBCRsC",
+      "citations": null
+    },
+    {
+      "title": "SSEforIoT: Searchable Symmetric Encryption for Images on IoT Platforms",
+      "authors": "I Aribilola, S Van Acker, A Shifa, JG Breslin, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:WbkHhVStYXYC",
+      "citations": null
+    },
+    {
+      "title": "SecureFace: A Controlled Deepfake Generation Framework for Exposing Detector Vulnerabilities",
+      "authors": "MS Afgan, B Liu, A Shifa, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:XiSMed-E-HIC",
+      "citations": null
+    },
+    {
+      "title": "Machine Unlearning for ensuring Compliance and Governance in Vision AI",
+      "authors": "V Balasubramanian, A Shifa, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-8, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:u9iWguZQMMsC",
+      "citations": null
+    },
+    {
+      "title": "Towards Secure Semantic Interoperability in Dairy Farming Systems",
+      "authors": "Q Rajput, J Breslin, MN Asghar",
+      "publication": "2025 Cyber Research Conference-Ireland (Cyber-RCI), 1-7, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:p2g8aNsByqUC",
+      "citations": null
+    },
+    {
+      "title": "Building Realistic Ground Truth Datasets of Personal Identification Information for Entity Matching",
+      "authors": "I Aribilola, M Catena, M Asghar, J Breslin, R Delbru",
+      "publication": "International Conference on Availability, Reliability and Security, 203-218, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:nb7KW1ujOQ8C",
+      "citations": null
+    },
+    {
+      "title": "Invisible identities: Privacy-aware object detection for autonomous vehicles and public surveillance",
+      "authors": "MJ Yousuf, M Asghar, MS Ansari, B Lee, N Kanwal",
+      "publication": "2025 35th Irish Signals and Systems Conference (ISSC), 1-6, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:SP6oXDckpogC",
+      "citations": null
+    },
+    {
+      "title": "Lightweight, Privacy-compliant Motion Detection System for Constrained Devices",
+      "authors": "AT Shaju, A Shifa, MN Asghar",
+      "publication": "2025 35th Irish Signals and Systems Conference (ISSC), 1-6, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:dshw04ExmUIC",
+      "citations": null
+    },
+    {
+      "title": "PURSUIT OF DIGITAL INNOVATION IN PSYCHIATRIC DATA-HANDLING PRACTICES IN IRELAND: A COMPREHENSIVE CASE STUDY (PREPRINT)",
+      "authors": "R ZEESHAN, J BOGUE, A GILL, MN ASGHAR",
+      "publication": "JMIR, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:uWQEDVKXjbEC",
+      "citations": null
+    },
+    {
+      "title": "2023 Index IEEE Transactions on Consumer Electronics Vol. 69",
+      "authors": "R Amjadifard, P Amrit, S Anbalagan, GF Angelis, V Aranda, A Arefi, ...",
+      "publication": "IEEE Transactions on Consumer Electronics 69 (4), 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:70eg2SAEIzsC",
+      "citations": null
+    },
+    {
+      "title": "DEMIS: A Threat Model for Selectively Encrypted Visual Surveillance Data",
+      "authors": "I Aribilola, MN Asghar, B Lee",
+      "publication": "arXiv preprint arXiv:2210.14622, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:iH-uZ7U-co4C",
+      "citations": null
+    },
+    {
+      "title": "Utility of Deep Learning Model to Prioritize the A&E Patients Admission Criteria",
+      "authors": "K Trzcinski, MN Asghar, A Phelan, A Servat, N Kanwal, MS Ansari, ...",
+      "publication": "Proceedings of International Conference on Information Technology and …, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:zA6iFVUQeVQC",
+      "citations": null
+    },
+    {
+      "title": "Deep Learning based Customer Count/Flow Monitoring System for Social Distancing",
+      "authors": "P Zamorski, MN Asghar, L Cooke, S Daly, J Francis, N Kanwal, MS Ansari, ...",
+      "publication": "2021 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf …, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qxL8FJ1GzNcC",
+      "citations": null
+    },
+    {
+      "title": "Analysis of iterative process for Nauru voting system",
+      "authors": "N Gohar, S Niaz, MN Ashg, S Noor",
+      "publication": "Tech Science Press, 2021",
+      "year": "2021",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:k_IJM867U9cC",
+      "citations": null
+    },
+    {
+      "title": "Trace model for cyclic behavior in wireless LANS.",
+      "authors": "S Bukhsh, S Abdullah, MN Asghar",
+      "publication": "Pakistan Association for the Advancement of Science, 2018",
+      "year": "2018",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:d1gkVwhDpl0C",
+      "citations": null
+    },
+    {
+      "title": "ZIMMERMANN REAL-TIME TRANSPORT PROTOCOL FOR HIERARCHICAL KEYS GENERATION OF ENCRYPTED SCALABLE VIDEO STREAMING",
+      "authors": "MN Asghar, H Majid, R Kausar, IS Bajwa, M Fleury",
+      "publication": "Pakistan Journal of Science 69 (1), 110, 2017",
+      "year": "2017",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:Y0pCki6q_DkC",
+      "citations": null
+    },
+    {
+      "title": "Computer Assisted 2-D Graphical Software Modelling using BSP Tree Algorithm",
+      "authors": "IS Bajwa, MN Asghar, MA Shahzada",
+      "publication": "Bahria University Journal of Information & Communication Technology 9, 1, 2016",
+      "year": "2016",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:hMod-77fHWUC",
+      "citations": null
+    },
+    {
+      "title": "Multimedia security perspectives in IoT",
+      "authors": "M Asghar",
+      "publication": "2016 Sixth International Conference on Innovative Computing Technology (INTECH), 2016",
+      "year": "2016",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:sSrBHYA8nusC",
+      "citations": null
+    },
+    {
+      "title": "MIKEY and SRTP integration for multicast streaming.",
+      "authors": "MN Asghar, M Sharmin, S Baig, Q Javaid, K Rashid",
+      "publication": "Euro Journals, 2006",
+      "year": "2006",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:8k81kl-MbHgC",
+      "citations": null
+    },
+    {
+      "title": "ViDiExPo: Video-Supervised Disentanglement with Interaction-Aware Fusion for Controllable Expression and Pose in Diffusion Models",
+      "authors": "MS AFGAN, B Liu, K Zou, W Khalid, D Sheng, MN Asghar",
+      "publication": "Available at SSRN 6985056, 0",
+      "year": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:tS2w5q8j5-wC",
+      "citations": null
+    },
+    {
+      "title": "DeepExPo: Facial Expression and Pose Generation via Self-Supervised Disentangled Embeddings Fusion in Text-to-Image Diffusion Models",
+      "authors": "MS AFGAN, B Liu, K Zou, W Khalid, D Sheng, MN Asghar",
+      "publication": "Available at SSRN 6679304, 0",
+      "year": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:tOudhMTPpwUC",
+      "citations": null
+    },
+    {
+      "title": "2023 Cyber Research Conference-Ireland (Cyber-RCI)",
+      "authors": "MN Abbas, F Alanazi, MN Ashgar, T Bolling, S CK, C Conors, B Curran, ...",
+      "publication": "",
+      "year": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:xtRiw3GOFMkC",
+      "citations": null
+    },
+    {
+      "title": "Internet of Things",
+      "authors": "I Aribilola, B Lee, MN Asghar",
+      "publication": "",
+      "year": "",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:35N4QoGY0k4C",
+      "citations": null
+    }
   ]
 }
