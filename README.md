@@ -8,9 +8,9 @@ The `dist` folder contains a complete standalone static website. It uses local s
 
 ## Publications
 
-Current status: three selected publications. The complete Google Scholar import is pending API configuration. Until a successful import is verified, this is not a complete paper list.
+Current status (26 October 2026): all 110 entries returned across both pages of the verified public Google Scholar profile have been imported. The weekly update workflow is configured with a repository secret and has completed its first successful import and deployment. This is the profile's publication list, which may include preprints or other outputs alongside papers.
 
-The included weekly workflow can update the entire public Scholar author profile lw6LYlgAAAAJ through SerpApi. To activate:
+The weekly workflow updates the public Scholar author profile lw6LYlgAAAAJ through SerpApi. The author ID comes from her own ORCID researcher links; the university staff directory's older Scholar ID returns 404. To configure this integration again or rotate its API key:
 
 1. Create a free account at https://serpapi.com/users/sign_up . The current free tier lists 250 searches/month; check current terms before subscribing.
 2. Open this repository's Settings → Secrets and variables → Actions → New repository secret.
