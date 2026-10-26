@@ -9,9 +9,10 @@ import os
 import sys
 import urllib.parse
 import urllib.request
+import urllib.error
 from pathlib import Path
 
-AUTHOR_ID = 'W9brBMQAAAAJ'
+AUTHOR_ID = 'lw6LYlgAAAAJ'
 DESTINATION = Path(__file__).parent / 'dist' / 'publications.json'
 
 
@@ -82,6 +83,12 @@ def main():
         temporary.replace(DESTINATION)
         print(f'Updated {len(articles)} publications from Google Scholar.')
         return 0
+    except RuntimeError as error:
+        print(str(error), file=sys.stderr)
+        return 1
+    except urllib.error.HTTPError as error:
+        print(f'Scholar provider HTTP {error.code}. Previous publications preserved.', file=sys.stderr)
+        return 1
     except Exception:
         # urllib errors may contain the authenticated URL: never print them.
         print('Scholar refresh failed. Previous publications preserved; check provider/account and retry.', file=sys.stderr)

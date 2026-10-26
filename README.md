@@ -10,7 +10,7 @@ The `dist` folder contains a complete standalone static website. It uses local s
 
 Current status: three selected publications. The complete Google Scholar import is pending API configuration. Until a successful import is verified, this is not a complete paper list.
 
-The included weekly workflow can update the entire public Scholar author profile W9brBMQAAAAJ through SerpApi. To activate:
+The included weekly workflow can update the entire public Scholar author profile lw6LYlgAAAAJ through SerpApi. To activate:
 
 1. Create a free account at https://serpapi.com/users/sign_up . The current free tier lists 250 searches/month; check current terms before subscribing.
 2. Open this repository's Settings → Secrets and variables → Actions → New repository secret.
