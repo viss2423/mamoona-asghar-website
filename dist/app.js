@@ -3,6 +3,9 @@ const list = document.querySelector('#publication-list');
 const search = document.querySelector('#publication-search');
 const year = document.querySelector('#publication-year');
 const count = document.querySelector('#result-count');
+const toggle = document.querySelector('#publication-toggle');
+const previewLimit = 5;
+let expanded = false;
 let articles = [];
 function safeLink(value) {
   try { const url = new URL(value); return ['https:', 'http:'].includes(url.protocol) ? url.href : null; } catch { return null; }
@@ -11,7 +14,8 @@ function render() {
   const query = search.value.trim().toLowerCase();
   const matches = articles.filter(a => (!year.value || String(a.year) === year.value) && [a.title, a.authors, a.publication].join(' ').toLowerCase().includes(query));
   list.replaceChildren();
-  for (const a of matches) {
+  const visible = expanded ? matches : matches.slice(0, previewLimit);
+  for (const a of visible) {
     const item = document.createElement('li');
     const heading = document.createElement('h3');
     const link = document.createElement('a');
@@ -23,8 +27,17 @@ function render() {
     venue.textContent = [a.publication, a.year, a.citations == null ? '' : `${a.citations} citations`].filter(Boolean).join(' · ');
     item.append(heading, authors, venue); list.append(item);
   }
-  count.textContent = matches.length ? `${matches.length} publication${matches.length === 1 ? '' : 's'}` : 'No publications match your search.';
+  count.textContent = matches.length ? `Showing ${visible.length} of ${matches.length} publication${matches.length === 1 ? '' : 's'}` : 'No publications match your search.';
+  toggle.hidden = matches.length <= previewLimit;
+  toggle.textContent = expanded ? 'Show fewer publications' : `Show all ${matches.length} publications`;
+  toggle.setAttribute('aria-expanded', String(expanded));
 }
+toggle.addEventListener('click', () => {
+  expanded = !expanded;
+  render();
+  if (!expanded) toggle.scrollIntoView({ block: 'nearest' });
+});
+function resetPreview() { expanded = false; render(); }
 async function loadPublications() {
   try {
     const response = await fetch('publications.json');
@@ -36,7 +49,7 @@ async function loadPublications() {
       const option = document.createElement('option'); option.value = value; option.textContent = value; year.append(option);
     }
     if (data.mode === 'scholar') document.querySelector('#publication-note').textContent = `Publications from Google Scholar. Last checked ${data.updated}.`;
-    search.addEventListener('input', render); year.addEventListener('change', render); render();
+    search.addEventListener('input', resetPreview); year.addEventListener('change', resetPreview); render();
   } catch {
     count.textContent = 'Showing selected publications. Visit Google Scholar for the complete list.';
     search.disabled = true; year.disabled = true;
