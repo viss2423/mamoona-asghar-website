@@ -1,4 +1,31 @@
 'use strict';
+(() => {
+  const nav = document.querySelector('#side-nav');
+  const btn = document.querySelector('.menu-toggle');
+  if (!nav || !btn) return;
+  const close = () => { nav.classList.remove('open'); btn.setAttribute('aria-expanded', 'false'); btn.textContent = 'Menu'; };
+  btn.addEventListener('click', () => {
+    const open = nav.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(open));
+    btn.textContent = open ? 'Close' : 'Menu';
+  });
+  const links = [...nav.querySelectorAll('a')];
+  for (const link of links) link.addEventListener('click', () => {
+    const target = document.querySelector(link.getAttribute('href'));
+    if (target && target.tagName === 'DETAILS') target.open = true;
+    close();
+  });
+  const sections = links.map(l => document.querySelector(l.getAttribute('href'))).filter(Boolean);
+  const mark = () => {
+    let current = sections[0];
+    for (const s of sections) if (s.getBoundingClientRect().top < 140) current = s;
+    if (window.innerHeight + window.scrollY >= document.body.scrollHeight - 4) current = sections[sections.length - 1];
+    for (const l of links) l.classList.toggle('active', l.getAttribute('href') === '#' + current.id);
+  };
+  window.addEventListener('scroll', mark, { passive: true });
+  mark();
+})();
+
 const list = document.querySelector('#publication-list');
 const search = document.querySelector('#publication-search');
 const year = document.querySelector('#publication-year');
