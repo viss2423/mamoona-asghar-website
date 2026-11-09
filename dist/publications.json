@@ -1,7 +1,7 @@
 {
   "source": "Google Scholar",
   "mode": "scholar",
-  "updated": "2026-11-02",
+  "updated": "2026-11-09",
   "author_id": "lw6LYlgAAAAJ",
   "articles": [
     {
@@ -10,7 +10,7 @@
       "publication": "Digital Signal Processing 126, 103514, 2022",
       "year": "2022",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:TQgYirikUcIC",
-      "citations": 1492
+      "citations": 1497
     },
     {
       "title": "Data driven approach for eye disease classification with machine learning",
@@ -34,7 +34,7 @@
       "publication": "Applied Sciences 14 (3), 1015, 2024",
       "year": "2024",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RYcK_YlVTxYC",
-      "citations": 75
+      "citations": 77
     },
     {
       "title": "Lightweight deep learning model for detection of copy-move image forgery with post-processed attacks",
@@ -258,7 +258,7 @@
       "publication": "Computer Modeling in Engineering & Sciences, 2026",
       "year": "2026",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:l7t_Zn2s7bgC",
-      "citations": 12
+      "citations": 13
     },
     {
       "title": "Efficient selective encryption with H. 264/SVC CABAC bin-strings",
@@ -285,6 +285,14 @@
       "citations": 11
     },
     {
+      "title": "Unlocking Trust: Advancing Activity Recognition in Video Processing",
+      "authors": "MJ Yousuf, B Lee, MN Asghar, MS Ansari, N Kanwal",
+      "publication": "IEEE Access, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ZHo1McVdvXMC",
+      "citations": 10
+    },
+    {
       "title": "Network-Coding-Enabled and QoS-Aware Message Delivery for Wireless Sensor Networks",
       "authors": "S Abdullah, MN Asghar, M Fleury, Z Mushtaq",
       "publication": "Wireless Personal Communications, 2023",
@@ -299,14 +307,6 @@
       "year": "2020",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:mVmsd5A6BfQC",
       "citations": 10
-    },
-    {
-      "title": "Unlocking Trust: Advancing Activity Recognition in Video Processing",
-      "authors": "MJ Yousuf, B Lee, MN Asghar, MS Ansari, N Kanwal",
-      "publication": "IEEE Access, 2024",
-      "year": "2024",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:ZHo1McVdvXMC",
-      "citations": 9
     },
     {
       "title": "Möbius transformation and permutation based S-box to enhance IOT multimedia security",
@@ -349,20 +349,20 @@
       "citations": 9
     },
     {
-      "title": "From prediction to sustainability: AI for smart energy management in wastewater treatment plants",
-      "authors": "SH Alsamhi, A Hawbani, MAA Al-Qaness, N O’brolchain, L Zhao, ...",
-      "publication": "Scientific Reports 15 (1), 44598, 2025",
-      "year": "2025",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:UxriW0iASnsC",
-      "citations": 8
-    },
-    {
       "title": "Deep learning based human detection in privacy-preserved surveillance videos",
       "authors": "MJ Yousuf, N Kanwal, MS Ansari, MN Asghar, BHY Lee",
       "publication": "35th International BCS Human-Computer Interaction Conference, 1-7, 2022",
       "year": "2022",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:e5wmG9Sq2KIC",
       "citations": 8
+    },
+    {
+      "title": "From prediction to sustainability: AI for smart energy management in wastewater treatment plants",
+      "authors": "SH Alsamhi, A Hawbani, MAA Al-Qaness, N O’brolchain, L Zhao, ...",
+      "publication": "Scientific Reports 15 (1), 44598, 2025",
+      "year": "2025",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:UxriW0iASnsC",
+      "citations": 7
     },
     {
       "title": "Deep learning based emotion classification with temporal pupillometry sequences",
@@ -669,6 +669,14 @@
       "citations": null
     },
     {
+      "title": "Deepfake Generation and Detection Algorithms: A Comprehensive Survey of Multimodal Learning, Robustness, Explainability, and Trustworthy Synthetic Media Forensics",
+      "authors": "T Kumar, R Vavekanand, M Javed, S Kumari, SH Bhutto, E Curry, ...",
+      "publication": "Algorithms 19 (11), 942, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:fQNAKQ3IYiAC",
+      "citations": null
+    },
+    {
       "title": "DiffAgeX: Identity Consistent Multi-Attribute Facial Synthesis via Adaptive Residual Fusion",
       "authors": "MS Afgan, B Liu, W Khalid, K Zou, T Wei, MN Asghar",
       "publication": "IEEE Transactions on Circuits and Systems for Video Technology, 2026",
@@ -801,7 +809,7 @@
       "authors": "P Zamorski, MN Asghar, L Cooke, S Daly, J Francis, N Kanwal, MS Ansari, ...",
       "publication": "2021 IEEE Intl Conf on Dependable, Autonomic and Secure Computing, Intl Conf …, 2021",
       "year": "2021",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qxL8FJ1GzNcC",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&cstart=100&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qxL8FJ1GzNcC",
       "citations": null
     },
     {
