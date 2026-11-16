@@ -1,7 +1,7 @@
 {
   "source": "Google Scholar",
   "mode": "scholar",
-  "updated": "2026-11-09",
+  "updated": "2026-11-16",
   "author_id": "lw6LYlgAAAAJ",
   "articles": [
     {
@@ -34,7 +34,7 @@
       "publication": "Applied Sciences 14 (3), 1015, 2024",
       "year": "2024",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RYcK_YlVTxYC",
-      "citations": 77
+      "citations": 78
     },
     {
       "title": "Lightweight deep learning model for detection of copy-move image forgery with post-processed attacks",
@@ -50,7 +50,7 @@
       "publication": "IEEE Transactions on Consumer Electronics, 2022",
       "year": "2022",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:TFP_iSt0sucC",
-      "citations": 63
+      "citations": 64
     },
     {
       "title": "An efficient security system for CABAC bin-strings of H. 264/SVC",
@@ -66,7 +66,7 @@
       "publication": "Ieee Access 8, 177131-177155, 2020",
       "year": "2020",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:qjMakFHDy7sC",
-      "citations": 54
+      "citations": 55
     },
     {
       "title": "Real-time Event-driven Road Traffic Monitoring System using CCTV Video Analytics",
@@ -74,7 +74,7 @@
       "publication": "IEEE Access 11, 2023",
       "year": "2023",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:GnPB-g6toBAC",
-      "citations": 47
+      "citations": 48
     },
     {
       "title": "Firenet-v2: Improved lightweight fire detection model for real-time iot applications",
@@ -221,20 +221,20 @@
       "citations": 17
     },
     {
+      "title": "Survey on Video Security: Examining Threats, Challenges, and Future Trends",
+      "authors": "A Asghar, A Shifa, MN Asghar",
+      "publication": "Computers, Materials & Continua 80 (3), 3591-3635, 2024",
+      "year": "2024",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:pqnbT2bcN3wC",
+      "citations": 16
+    },
+    {
       "title": "Log4jPot: effective log4shell vulnerability detection system",
       "authors": "S Sopariwala, E Fallon, MN Asghar",
       "publication": "2022 33rd Irish Signals and Systems Conference (ISSC), 1-5, 2022",
       "year": "2022",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:2osOgNQ5qMEC",
       "citations": 16
-    },
-    {
-      "title": "Survey on Video Security: Examining Threats, Challenges, and Future Trends",
-      "authors": "A Asghar, A Shifa, MN Asghar",
-      "publication": "Computers, Materials & Continua 80 (3), 3591-3635, 2024",
-      "year": "2024",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:pqnbT2bcN3wC",
-      "citations": 15
     },
     {
       "title": "Pixel tampering detection in encrypted surveillance videos on resource-constrained devices",
@@ -258,7 +258,7 @@
       "publication": "Computer Modeling in Engineering & Sciences, 2026",
       "year": "2026",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:l7t_Zn2s7bgC",
-      "citations": 13
+      "citations": 14
     },
     {
       "title": "Efficient selective encryption with H. 264/SVC CABAC bin-strings",
@@ -365,6 +365,14 @@
       "citations": 7
     },
     {
+      "title": "End-to-end emotion recognition using peripheral physiological signals",
+      "authors": "M Pidgeon, N Kanwal, N Murray, M Asghar",
+      "publication": "35th International BCS Human-Computer Interaction Conference, 1-10, 2022",
+      "year": "2022",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:isC4tDSrTZIC",
+      "citations": 7
+    },
+    {
       "title": "Deep learning based emotion classification with temporal pupillometry sequences",
       "authors": "S Rafique, N Kanwal, MS Ansari, M Asghar, Z Akhtar",
       "publication": "2021 International Conference on Electrical, Computer and Energy …, 2021",
@@ -394,14 +402,6 @@
       "publication": "IEEE Access 13, 117343-117354, 2025",
       "year": "2025",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:CHSYGLWDkRkC",
-      "citations": 6
-    },
-    {
-      "title": "End-to-end emotion recognition using peripheral physiological signals",
-      "authors": "M Pidgeon, N Kanwal, N Murray, M Asghar",
-      "publication": "35th International BCS Human-Computer Interaction Conference, 1-10, 2022",
-      "year": "2022",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:isC4tDSrTZIC",
       "citations": 6
     },
     {
@@ -525,6 +525,14 @@
       "citations": 3
     },
     {
+      "title": "VidSearch: Privacy-by-Design Video Search and Retrieval System for Large-Scale CCTV Data",
+      "authors": "M Tahir, Y Qiao, N Kanwal, B Lee, MN Asghar",
+      "publication": "22nd International Conference on Machine Learning and Applications …, 2023",
+      "year": "2023",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RGFaLdJalmkC",
+      "citations": 3
+    },
+    {
       "title": "Improved privacy-ensuring data-fusion and service recommendation for users in smart cities",
       "authors": "M Sarim, MS Ansari, N Kanwal, M Asghar",
       "publication": "2021 IEEE International Smart Cities Conference (ISC2), 1-7, 2021",
@@ -581,14 +589,6 @@
       "citations": 2
     },
     {
-      "title": "VidSearch: Privacy-by-Design Video Search and Retrieval System for Large-Scale CCTV Data",
-      "authors": "M Tahir, Y Qiao, N Kanwal, B Lee, MN Asghar",
-      "publication": "22nd International Conference on Machine Learning and Applications …, 2023",
-      "year": "2023",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:RGFaLdJalmkC",
-      "citations": 2
-    },
-    {
       "title": "Automated detection of early tropical cyclones formation in satellite images",
       "authors": "IS Bajwa",
       "publication": "Pakistan Journal of Science 69 (4), 2017",
@@ -603,6 +603,14 @@
       "year": "2016",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:L8Ckcad2t8MC",
       "citations": 2
+    },
+    {
+      "title": "Irish-accented english audio-visual deepfake datasets with deep packet inspection-inspired media integrity validation",
+      "authors": "T Kumar, M Umair, S Leavy, P Eustace, E Curry, MN Asghar",
+      "publication": "Scientific Data, 2026",
+      "year": "2026",
+      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:geHnlv5EZngC",
+      "citations": 1
     },
     {
       "title": "Federated Learning with Motion-Only Encryption for Visual Data Transformation in Human Activity Recognition",
@@ -690,14 +698,6 @@
       "publication": "Applied Sciences 16 (16), 8223, 2026",
       "year": "2026",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:5Ul4iDaHHb8C",
-      "citations": null
-    },
-    {
-      "title": "Irish-Accented English Audio-Visual Deepfake Datasets with Deep Packet Inspection-Inspired Media Integrity Validation",
-      "authors": "T Kumar, M Umair, S Leavy, P Eustace, E Curry, MN Asghar",
-      "publication": "Scientific Data, 2026",
-      "year": "2026",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=lw6LYlgAAAAJ&pagesize=100&citation_for_view=lw6LYlgAAAAJ:geHnlv5EZngC",
       "citations": null
     },
     {
